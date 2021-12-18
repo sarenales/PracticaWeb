@@ -1,7 +1,7 @@
 # PracticaWeb
 
 
-Queremos Queremos crear una aplicación que gestione un número grande (miles, cientos de miles o millones) 
+Queremos crear una aplicación que gestione un número grande (miles, cientos de miles o millones) 
 e páginas web tomadas de Web Data Commons - Hyperlink Graph 2012. Para esta prática utilizaremos una 
 versión reducida.
 

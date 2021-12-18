@@ -1,5 +1,7 @@
-# PracticaWeb
+# PrácticaWeb
 
+Esta práctica se ha realizado en la asignatura de Estructura de Datos y Algoritmos en el 2º curso de 
+ingeniería informática de la Universidad del País Vasco (EHU).
 
 Queremos crear una aplicación que gestione un número grande (miles, cientos de miles o millones) 
 e páginas web tomadas de Web Data Commons - Hyperlink Graph 2012. Para esta prática utilizaremos una 
@@ -39,7 +41,7 @@ más de 10 caracteres.
 Este proyecto lo dividiremos en 3 fases.
 
 
-FASE 1:
+#FASE 1:
 
 En esta primera fase trabajaremos con ARRAYs y ARRAYLISTs.
 

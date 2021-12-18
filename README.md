@@ -41,7 +41,7 @@ Este proyecto lo dividiremos en 3 fases.
 
 FASE 1:
 
-En esta primera fase trabajaremos con ARRAYs y ARRAYs.
+En esta primera fase trabajaremos con ARRAYs y ARRAYLISTs.
 
 Es de mencionar que el fichero words.txt esta ordenado alfabéticamente, por lo que la búsqueda de 
 las palabras clave será más sencilla. Realizaremos una búsqueda dicotómica.

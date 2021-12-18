@@ -33,6 +33,7 @@ anterior, las palabras clave de la web con URL "www.crediblenessforcredit.com" s
 Sin embargo credibleness no sería palabra clave puesto que, aunque aparece en la URL, tiene
 más de 10 caracteres.
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Este proyecto lo dividiremos en 3 fases.
 

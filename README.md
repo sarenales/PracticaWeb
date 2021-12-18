@@ -32,3 +32,17 @@ anterior, las palabras clave de la web con URL "www.crediblenessforcredit.com" s
 - credit
 Sin embargo credibleness no sería palabra clave puesto que, aunque aparece en la URL, tiene
 más de 10 caracteres.
+
+
+Este proyecto lo dividiremos en 3 fases.
+
+
+FASE 1:
+
+En esta primera fase trabajaremos con ARRAYs y ARRAYs.
+
+Es de mencionar que el fichero words.txt esta ordenado alfabéticamente, por lo que la búsqueda de 
+las palabras clave será más sencilla. Realizaremos una búsqueda dicotómica.
+
+El fichero index es el más largo de todos, por lo que el objetivo de esta primera fase será recorrerlo
+una sola vez.
